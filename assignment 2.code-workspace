@@ -1,0 +1,19 @@
+{
+    "folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../jay"
+		},
+		{
+			"path": "../New folder"
+		},
+		{
+			"path": "E:/2202031000058-main"
+		}
+	],
+    "settings": {
+        "java.debug.settings.onBuildFailureProceed": true
+    }
+}
